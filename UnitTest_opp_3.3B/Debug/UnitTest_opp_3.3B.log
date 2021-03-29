@@ -1,0 +1,7 @@
+﻿  UnitTest_opp_3.3B.cpp
+C:\Users\ksush\source\repos\Project_opp_3.3B\Project_opp_3.3B\Money.cpp(16,18): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+C:\Users\ksush\source\repos\Project_opp_3.3B\Project_opp_3.3B\Money.cpp(17,18): warning C4244: аргумент: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\ksush\source\repos\Project_opp_3.3B\Project_opp_3.3B\Money.cpp(33,13): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\ksush\source\repos\Project_opp_3.3B\Project_opp_3.3B\Money.cpp(34,14): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+     Создается библиотека C:\Users\ksush\source\repos\Project_opp_3.3B\Debug\UnitTest_opp_3.3B.lib и объект C:\Users\ksush\source\repos\Project_opp_3.3B\Debug\UnitTest_opp_3.3B.exp
+  UnitTest_opp_3.3B.vcxproj -> C:\Users\ksush\source\repos\Project_opp_3.3B\Debug\UnitTest_opp_3.3B.dll
